@@ -1,0 +1,12 @@
+<books>
+    <book id="1">
+        <name>Java ve Yazılım Tasarımı</name>
+        <price>35</price>
+        <author>Altuğ B. Altıntaş</author>
+    </book>
+    <book id="2">
+        <name>Java Mimarisiyle Kurumsal Çözümler</name>
+        <price>25</price>
+        <author>Rahman Usta</author>
+    </book>
+</books>
